@@ -22,6 +22,6 @@ Click on the links below to view the official project documents:
 Kotbia Smart Solutions serves as a technical and methodological consultant for academic researchers facing complex challenges in statistical analysis and research methodology. This project aims to build a scalable digital community and establish authoritative trust among researchers, postgraduate students, and academic supervisors across Egypt and the Arab region.
 
 ---
-> **Prepared by:** Dr. Ahmed 
+> **Prepared by:** Dr. Ahmed Kotb
 > *Scientific Research & Statistical Analysis Expert*
 > *EDPI - Digital Marketing Track*
