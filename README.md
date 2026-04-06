@@ -10,10 +10,10 @@ This project outlines a strategic digital marketing framework designed to transf
 ### 📂 Project Documents (Navigation)
 Click on the links below to view the official project documents:
 
-* **📄 [Proposed Graduation Project Plan](./Proposed-Graduation-Project-Plan.pdf)**
+* **📄 [Proposed Graduation Project Plan](./Proposed Graduation Project Plan.pdf)**
   *This document contains the comprehensive marketing proposal, including the introduction to scientific research challenges, problem statement, target audience, and initial digital marketing goals.*
 
-* **👥 [Project Personnel](./Project-Personnel.pdf)**
+* **👥 [Project Personnel](./Project Personnel.pdf)**
   *This document outlines the structure of the consulting team, led by the principal expert, and details the roles and responsibilities of the specialized assistants executing the project.*
 
 ---
